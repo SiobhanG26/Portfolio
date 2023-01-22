@@ -129,4 +129,7 @@ p {
     text-align: center;
     margin: 0 20px;
   }
+  .d-sm-block {
+    display: none;
+  }
 }
